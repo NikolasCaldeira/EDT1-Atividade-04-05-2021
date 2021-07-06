@@ -1,6 +1,6 @@
 # EDT1-Atividade-04-05-2021
 
-## Desenvolva um programa que permita a digitação (e posterior exibição), dos dados relativos à classe "Contato" abaixo descrita:
+### Desenvolva um programa que permita a digitação (e posterior exibição), dos dados relativos à classe "Contato" abaixo descrita:
 
 ---------------------
 | Data              |
